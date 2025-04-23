@@ -1,0 +1,22 @@
+# Whisper.cpp
+whisper.cpp/models/
+
+# FinBERT models
+FinBERT/pytorch_model.bin
+FinBERT/tf_model.h5
+
+# Any checkpoints or weights
+*.pt
+*.bin
+*.ckpt
+*.onnx
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+audio_files/
+audio_files/
